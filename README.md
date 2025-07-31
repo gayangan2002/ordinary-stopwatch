@@ -1,0 +1,1 @@
+This repo represents the ordinary level code structure of a  stopwatch.
